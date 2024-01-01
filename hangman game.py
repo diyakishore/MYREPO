@@ -50,3 +50,4 @@ def hangman():
 
 if __name__ == "__main__":
     hangman()
+    #This is a basic implementation, and you can modify and extend it as needed. The game randomly selects a word from a predefined list, and the player has to guess the word one letter at a time. The player has 6 attempts to guess the word correctly. You can customize the list of words or add more features to make the game more interesting.
